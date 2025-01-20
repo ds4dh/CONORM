@@ -1,0 +1,12 @@
+T1	ADE 0 9	heartburn
+T2	ADE 11 17	nausea
+T3	ADE 40 56	voracious hunger
+T4	ADE 59 103	sharp unbearable cramping pains in lower gut
+N1	Reference T1 meddra_llt_id:10019326	Heartburn
+N2	Reference T1 meddra_pt_id:10013946	Dyspepsia
+N3	Reference T2 meddra_llt_id:10028813	Nausea
+N4	Reference T2 meddra_pt_id:10028813	Nausea
+N5	Reference T3 meddra_llt_id:10003024	Appetite excessive
+N6	Reference T3 meddra_pt_id:10021654	Increased appetite
+N7	Reference T4 meddra_llt_id:10024940	Lower abdominal pain
+N8	Reference T4 meddra_pt_id:10000084	Abdominal pain lower

@@ -1,0 +1,21 @@
+T1	ADE 0 12	Constipation
+T2	ADE 62 72	joint pain
+T3	ADE 121 125	Pain
+T4	ADE 173 205	extreme itching on legs and arms
+T5	ADE 238 260	mobility has DECREASED
+T6	ADE 344 356	constipation
+T7	ADE 516 526	joint pain
+N1	Reference T1 meddra_llt_id:10010774	Constipation
+N2	Reference T1 meddra_pt_id:10010774	Constipation
+N3	Reference T2 meddra_llt_id:10003239	Arthralgia
+N4	Reference T2 meddra_pt_id:10003239	Arthralgia
+N5	Reference T3 meddra_llt_id:10033371	Pain
+N6	Reference T3 meddra_pt_id:10033371	Pain
+N7	Reference T4 meddra_llt_id:10023084	Itching
+N8	Reference T4 meddra_pt_id:10037087	Pruritus
+N9	Reference T5 meddra_llt_id:10048334	Mobility decreased
+N10	Reference T5 meddra_pt_id:10048334	Mobility decreased
+N11	Reference T6 meddra_llt_id:10010774	Constipation
+N12	Reference T6 meddra_pt_id:10010774	Constipation
+N13	Reference T7 meddra_llt_id:10003239	Arthralgia
+N14	Reference T7 meddra_pt_id:10003239	Arthralgia

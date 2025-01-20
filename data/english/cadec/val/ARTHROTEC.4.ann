@@ -1,0 +1,6 @@
+T1	ADE 5 51	menstruating with heavy bleeding every 11 days
+T2	ADE 140 155	horrific cramps
+N1	Reference T1 meddra_llt_id:10015607	Excessive or frequent menstruation
+N2	Reference T1 meddra_pt_id:10027313	Menorrhagia
+N3	Reference T2 meddra_llt_id:10028294	Muscle cramp
+N4	Reference T2 meddra_pt_id:10028334	Muscle spasms

@@ -1,0 +1,15 @@
+T1	ADE 497 511	EXTREME nausea
+T2	ADE 0 9	vomitting
+T3	ADE 109 113	sick
+T4	ADE 188 196	sickness
+T5	ADE 289 297	sickness
+N1	Reference T1 meddra_llt_id:10028813	Nausea
+N2	Reference T1 meddra_pt_id:10028813	Nausea
+N3	Reference T2 meddra_llt_id:10047700	Vomiting
+N4	Reference T2 meddra_pt_id:10047700	Vomiting
+N5	Reference T3 meddra_llt_id:10061520	Ill-defined disorder
+N6	Reference T3 meddra_pt_id:10061520	Ill-defined disorder
+N7	Reference T4 meddra_llt_id:10061520	Ill-defined disorder
+N8	Reference T4 meddra_pt_id:10061520	Ill-defined disorder
+N9	Reference T5 meddra_llt_id:10061520	Ill-defined disorder
+N10	Reference T5 meddra_pt_id:10061520	Ill-defined disorder

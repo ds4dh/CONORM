@@ -1,0 +1,9 @@
+T1	ADE 32 53	severe abdominal pain
+T2	ADE 134 192	feeling like my stomach is full and empty at the same time
+T3	ADE 266 273	bruises
+N1	Reference T1 meddra_llt_id:10033371	Pain
+N2	Reference T1 meddra_pt_id:10033371	Pain
+N3	Reference T1 meddra_llt_id:10000081	Abdominal pain
+N4	Reference T1 meddra_pt_id:10000081	Abdominal pain
+N5	Reference T3 meddra_llt_id:10050584	Contusion
+N6	Reference T3 meddra_pt_id:10050584	Contusion

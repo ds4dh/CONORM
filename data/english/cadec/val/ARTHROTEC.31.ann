@@ -1,0 +1,29 @@
+T1	ADE 0 9	headaches
+T2	ADE 11 28	extreme tiredness
+T3	ADE 36 63	heartburn in back of throat
+T4	ADE 65 77	hunger pangs
+T5	ADE 79 88	dry mouth
+T6	ADE 90 126	severe lower abdominal pain/cramping
+T7	ADE 128 142	very irritable
+T8	ADE 246 258	PMS symptoms
+T9	ADE 341 345	GERD
+N1	Reference T1 meddra_llt_id:10019211	Headache
+N2	Reference T1 meddra_pt_id:10019211	Headache
+N3	Reference T2 meddra_llt_id:10016256	Fatigue
+N4	Reference T2 meddra_pt_id:10016256	Fatigue
+N5	Reference T3 meddra_llt_id:10019326	Heartburn
+N6	Reference T3 meddra_pt_id:10013946	Dyspepsia
+N7	Reference T4 meddra_llt_id:10033407	Pain hunger
+N8	Reference T4 meddra_pt_id:10000087	Abdominal pain upper
+N9	Reference T5 meddra_llt_id:10013781	Dry mouth
+N10	Reference T5 meddra_pt_id:10013781	Dry mouth
+N11	Reference T5 meddra_llt_id:10003069	APUDoma
+N12	Reference T5 meddra_pt_id:10003069	APUDoma
+N13	Reference T6 meddra_llt_id:10024940	Lower abdominal pain
+N14	Reference T6 meddra_pt_id:10000084	Abdominal pain lower
+N15	Reference T7 meddra_llt_id:10023000	Irritable
+N16	Reference T7 meddra_pt_id:10022998	Irritability
+N17	Reference T8 meddra_llt_id:10036502	Pre-menstrual tension syndrome
+N18	Reference T8 meddra_pt_id:10036618	Premenstrual syndrome
+N19	Reference T9 meddra_llt_id:10016766	Flatulence
+N20	Reference T9 meddra_pt_id:10016766	Flatulence

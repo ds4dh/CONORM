@@ -1,0 +1,6 @@
+T1	ADE 494 502	headache
+T2	ADE 665 687	heavy vaginal bleeding
+N1	Reference T1 meddra_llt_id:10019211	Headache
+N2	Reference T1 meddra_pt_id:10019211	Headache
+N3	Reference T2 meddra_llt_id:10046883	Vaginal bleeding
+N4	Reference T2 meddra_pt_id:10046910	Vaginal haemorrhage

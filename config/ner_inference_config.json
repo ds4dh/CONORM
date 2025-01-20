@@ -1,0 +1,7 @@
+{
+    "path_to_txt": "./data/english/cadec/test",
+    "path_to_model": "./logs/english_cadec/<model_name>",
+    "output_path": "./predictions/cadec/ner",
+    "device": "cuda:0",
+    "batch_size": 12
+}

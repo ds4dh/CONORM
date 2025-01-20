@@ -1,0 +1,17 @@
+{
+    "train_standoff_path": "./data/english/cadec/train",
+    "val_standoff_path": "./data/english/cadec/val",
+    "test_standoff_path": "./data/english/cadec/test",
+    "document_level": true,
+    "train_sentence_tokenizer": false,
+    "post_process_type": "classic",
+    "split_brat_on_newlines": false,
+    "device": "cuda:0",
+    "pretrained_model": "microsoft/mpnet-base",
+    "max_len": 512,
+    "two_phase_learning": true,
+    "max_epoch": 20,
+    "batch_size": 24,
+    "learning_rate": 4.205786838807149e-05,
+    "warmup_proportion": 0.0
+}

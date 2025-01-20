@@ -1,0 +1,17 @@
+{
+    "llt_asc_path": "./meddra_data/CADEC_meddra_16_0_english/MedAscii/llt.asc",
+    "pt_asc_path": "./meddra_data/CADEC_meddra_16_0_english/MedAscii/pt.asc",
+    "train_standoff_path": "./data/english/cadec/train",
+    "val_standoff_path": "./data/english/cadec/val",
+    "test_standoff_path": "./data/english/cadec/test",
+    "meddra_level": "pt",
+    "isolated_model_name": "sentence-transformers/multi-qa-mpnet-base-dot-v1",
+    "context_model_name": "sentence-transformers/all-mpnet-base-v2",
+    "document_level": false,
+    "epochs": 100,
+    "device": "cuda:1",
+    "batch_size": 32,
+    "learning_rate": 0.0003,
+    "grad_clip": 1.0,
+    "margin": 0.0
+}

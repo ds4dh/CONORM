@@ -1,0 +1,12 @@
+T1	ADE 9 19	bit drowsy
+T2	ADE 29 50	little blurred vision
+T3	ADE 62 78	gastric problems
+T4	ADE 437 453	feel a bit weird
+N1	Reference T1 meddra_llt_id:10013649	Drowsiness
+N2	Reference T1 meddra_pt_id:10041349	Somnolence
+N3	Reference T2 meddra_llt_id:10005886	Blurred vision
+N4	Reference T2 meddra_pt_id:10047513	Vision blurred
+N5	Reference T3 meddra_llt_id:10056819	Gastric disorder
+N6	Reference T3 meddra_pt_id:10056819	Gastric disorder
+N7	Reference T4 meddra_llt_id:10025482	Malaise
+N8	Reference T4 meddra_pt_id:10025482	Malaise

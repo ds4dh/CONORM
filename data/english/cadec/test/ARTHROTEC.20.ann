@@ -1,0 +1,17 @@
+T1	ADE 191 213	MAJOR menstrual cramps
+T2	ADE 224 232	bleeding
+T3	ADE 249 257	sickness
+T4	ADE 269 275	puking
+T5	ADE 364 375	menstrating
+T6	ADE 414 434	brought my period on
+T7	ADE 323 327	pain
+N1	Reference T1 meddra_llt_id:10027323	Menstrual cramp
+N2	Reference T1 meddra_pt_id:10013935	Dysmenorrhoea
+N3	Reference T2 meddra_llt_id:10005103	Bleeding
+N4	Reference T2 meddra_pt_id:10055798	Haemorrhage
+N5	Reference T3 meddra_llt_id:10061520	Ill-defined disorder
+N6	Reference T3 meddra_pt_id:10061520	Ill-defined disorder
+N7	Reference T4 meddra_llt_id:10047700	Vomiting
+N8	Reference T4 meddra_pt_id:10047700	Vomiting
+N9	Reference T7 meddra_llt_id:10033371	Pain
+N10	Reference T7 meddra_pt_id:10033371	Pain

@@ -1,0 +1,26 @@
+T1	ADE 0 25	Severe abdominal cramping
+T2	ADE 27 35	sweating
+T3	ADE 37 50	period cramps
+T4	ADE 52 68	vaginal bleeding
+T5	ADE 70 78	diarrhea
+T6	ADE 80 91	acid reflux
+T7	ADE 148 152	pain
+T8	ADE 93 102	dry mouth
+N1	Reference T1 meddra_llt_id:10061265	Learning disorder
+N2	Reference T1 meddra_pt_id:10061265	Learning disorder
+N3	Reference T2 meddra_llt_id:10042661	Sweating
+N4	Reference T2 meddra_pt_id:10020642	Hyperhidrosis
+N5	Reference T3 meddra_llt_id:10027323	Menstrual cramp
+N6	Reference T3 meddra_pt_id:10013935	Dysmenorrhoea
+N7	Reference T4 meddra_llt_id:10046883	Vaginal bleeding
+N8	Reference T4 meddra_pt_id:10046910	Vaginal haemorrhage
+N9	Reference T5 meddra_llt_id:10012735	Diarrhoea
+N10	Reference T5 meddra_pt_id:10012735	Diarrhoea
+N11	Reference T6 meddra_llt_id:10000479	Acid reflux (oesophageal)
+N12	Reference T6 meddra_pt_id:10017885	Gastrooesophageal reflux disease
+N13	Reference T7 meddra_llt_id:10033371	Pain
+N14	Reference T7 meddra_pt_id:10033371	Pain
+N15	Reference T8 meddra_llt_id:10013781	Dry mouth
+N16	Reference T8 meddra_pt_id:10013781	Dry mouth
+N17	Reference T8 meddra_llt_id:10003068	Aptyalism
+N18	Reference T8 meddra_pt_id:10003068	Aptyalism

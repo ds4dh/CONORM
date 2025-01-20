@@ -1,0 +1,12 @@
+T1	ADE 22 39	lower pelvic pain
+T2	ADE 41 60	Uterus contractions
+T3	ADE 62 75	Bloody vagina
+T4	ADE 99 111	gastric pain
+N1	Reference T1 meddra_llt_id:10034263	Pelvic pain
+N2	Reference T1 meddra_pt_id:10034263	Pelvic pain
+N3	Reference T2 meddra_llt_id:10046823	Uterine spasm
+N4	Reference T2 meddra_pt_id:10046823	Uterine spasm
+N5	Reference T3 meddra_llt_id:10046883	Vaginal bleeding
+N6	Reference T3 meddra_pt_id:10046910	Vaginal haemorrhage
+N7	Reference T4 meddra_llt_id:10016766	Flatulence
+N8	Reference T4 meddra_pt_id:10016766	Flatulence

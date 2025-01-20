@@ -1,0 +1,7 @@
+T1	ADE 0 16	vaginal bleeding
+T2	ADE 21 29	cramping
+T3	ADE 135 154	return of my period
+N1	Reference T1 meddra_llt_id:10046883	Vaginal bleeding
+N2	Reference T1 meddra_pt_id:10046910	Vaginal haemorrhage
+N3	Reference T2 meddra_llt_id:10028294	Muscle cramp
+N4	Reference T2 meddra_pt_id:10028334	Muscle spasms

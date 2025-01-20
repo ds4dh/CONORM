@@ -1,0 +1,16 @@
+T1	ADE 14 26	stomach pain
+T2	ADE 32 45	slight nausea
+T3	ADE 52 58	reflux
+T4	ADE 152 165	abdominal gas
+T5	ADE 228 244	abdominal cramps
+T6	ADE 466 479	abdominal gas
+N1	Reference T1 meddra_llt_id:10042076	Stomach ache
+N2	Reference T1 meddra_pt_id:10000087	Abdominal pain upper
+N3	Reference T2 meddra_llt_id:10028813	Nausea
+N4	Reference T2 meddra_pt_id:10028813	Nausea
+N5	Reference T4 meddra_llt_id:10016766	Flatulence
+N6	Reference T4 meddra_pt_id:10016766	Flatulence
+N7	Reference T5 meddra_llt_id:10000055	Abdominal colic
+N8	Reference T5 meddra_pt_id:10000081	Abdominal pain
+N9	Reference T6 meddra_llt_id:10016766	Flatulence
+N10	Reference T6 meddra_pt_id:10016766	Flatulence

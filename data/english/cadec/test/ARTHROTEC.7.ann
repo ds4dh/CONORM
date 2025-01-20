@@ -1,0 +1,18 @@
+T1	ADE 17 65	severe sudden onset headache in the back of head
+T2	ADE 91 113	BP was extrememly high
+T3	ADE 119 133	pulse was high
+T4	ADE 226 233	high BP
+T5	ADE 295 324	pulse is still extremely high
+T6	ADE 548 559	tachycardia
+N1	Reference T1 meddra_llt_id:10019211	Headache
+N2	Reference T1 meddra_pt_id:10019211	Headache
+N3	Reference T2 meddra_llt_id:10005747	Blood pressure high
+N4	Reference T2 meddra_pt_id:10020772	Hypertension
+N5	Reference T3 meddra_llt_id:10037484	Pulse rapid
+N6	Reference T3 meddra_pt_id:10019303	Heart rate increased
+N7	Reference T4 meddra_llt_id:10005747	Blood pressure high
+N8	Reference T4 meddra_pt_id:10020772	Hypertension
+N9	Reference T5 meddra_llt_id:10037484	Pulse rapid
+N10	Reference T5 meddra_pt_id:10019303	Heart rate increased
+N11	Reference T6 meddra_llt_id:10043071	Tachycardia
+N12	Reference T6 meddra_pt_id:10043071	Tachycardia
