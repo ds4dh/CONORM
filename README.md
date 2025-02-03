@@ -68,7 +68,9 @@ python -m nltk.downloader punkt
 │           └── train (standoff training data)  
 │           └── val (standoff validation data)  
 │           └── test (optional standoff testing data)  
-│           └── infer (optional standoff inference files)  
+│           └── infer (optional standoff inference files)
+│  
+├── preprocessing_notebooks (Jupyter notebooks for data preprocessing)
 │  
 ├── src (source code)  
 │   ├── inference_helpers.py  
@@ -105,6 +107,11 @@ The pipeline only accepts data in the [standoff data format](https://brat.nlplab
 ```  
 
 If the `test` folder is not provided, set `"test_standoff_path"` to `null` in `./config/ner_training_config.json`. A synthetic test folder will be created during preprocessing by copying validation files.
+
+For ease of use and reproducibility, preprocessing notebooks are provided to assist in transforming raw datasets into the required standoff format:
+- **SMM4H 2023 Shared Task 5**: Raw dataset available upon request at [SMM4H 2023](https://codalab.lisn.upsaclay.fr/competitions/12941#participate-get-data).
+- **CADEC Dataset**: Raw dataset available at [CADEC](https://data.csiro.au/collection/csiro:10948).
+- **TAC Dataset**: Raw dataset available at [TAC](https://bionlp.nlm.nih.gov/tac2017adversereactions/).
 
 Some sample files have been added to this repository as input examples, located at `"./data/english/cadec"`.
 
